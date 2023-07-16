@@ -1,0 +1,19 @@
+button {
+    color: #FFFFFF;
+    background-color: #000000 !important;
+}
+img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 110px;
+
+}
+h3 {
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+#MainMenu {visibility: hidden}
+header {visibility: hidden}
+footer {visibility: hidden}
